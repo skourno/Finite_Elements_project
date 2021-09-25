@@ -9,7 +9,7 @@ Just type make with one of the following arguments:
         exc2 - for 2D linear problems
         exc3 - for 2D non-linear problems 
 *************************************************************
- There exist 4 types of inputs used:
+ There exist 3 different input files that can be used:
  
         input_fem.txt              : mandatory - contains essential problem info
         input_fem_bcs.txt          : mandatory - There exist two versions, pick the one corresponding to the specific problem dimensions
